@@ -1,1 +1,5 @@
-# https-github.com-barkathnishasillentkiller786-debug-hello-world
+#include <stdio.h>
+
+int main() {
+  printf("apple\n banana\n grapes\n");
+  return 0;
